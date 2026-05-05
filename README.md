@@ -1,4 +1,4 @@
-A simple, effective, and versatile design documents for games, utilities, and other digital products.
+A simple, effective, and versatile design document for games, utilities, and other digital products.
 
 
 Project Title
